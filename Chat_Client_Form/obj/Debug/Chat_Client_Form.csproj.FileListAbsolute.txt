@@ -1,0 +1,10 @@
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\bin\Debug\Chat_Client_Form.exe.config
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\bin\Debug\Chat_Client_Form.exe
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\bin\Debug\Chat_Client_Form.pdb
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\obj\Debug\Chat_Client_Form.csprojAssemblyReference.cache
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\obj\Debug\Chat_Client_Form.Settings.resources
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\obj\Debug\Chat_Client_Form.Form1.resources
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\obj\Debug\Chat_Client_Form.Properties.Resources.resources
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\obj\Debug\Chat_Client_Form.csproj.GenerateResource.cache
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\obj\Debug\Chat_Client_Form.exe
+C:\Users\KDFX Team\source\repos\Chat_Client_Form\obj\Debug\Chat_Client_Form.pdb
